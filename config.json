@@ -1,0 +1,8 @@
+{
+    "token": "TOKEN DU BOT",
+    "slashs": true,
+    "prefix": "&",
+    "owners": [
+        "TON ID DISCORD"
+    ]
+}
